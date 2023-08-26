@@ -17,6 +17,7 @@
     "chartjs-2": "^0.0.1-security",
     "dotenv": "^16.3.1",
     "gh-pages": "^6.0.0",
+    "kerberos": "^2.0.1",
     "link": "^1.5.1",
     "mongo": "^0.1.0",
     "mongoimport": "^1.0.6",

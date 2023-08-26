@@ -1,36 +1,42 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills.js"
+    "static/chunks/polyfills-78c92fac7aa8fdd8.js"
   ],
-  "devFiles": [
-    "static/chunks/react-refresh.js"
-  ],
+  "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js"
+    "static/ysnVsbK3oCq4fFljpbmTk/_buildManifest.js",
+    "static/ysnVsbK3oCq4fFljpbmTk/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
     "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
+      "static/chunks/webpack-00804ddac72c703d.js",
+      "static/chunks/framework-e037b0586cd7ceec.js",
+      "static/chunks/main-2870851f72bc303d.js",
+      "static/chunks/fec483df-45f26348652c62a1.js",
+      "static/chunks/705-e907aa040c618a33.js",
+      "static/chunks/pages/index-4ece0341dddea9a1.js"
     ],
     "/[country]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/[country].js"
+      "static/chunks/webpack-00804ddac72c703d.js",
+      "static/chunks/framework-e037b0586cd7ceec.js",
+      "static/chunks/main-2870851f72bc303d.js",
+      "static/chunks/ee8b1517-cdfde177a9eaa8d6.js",
+      "static/chunks/197-bc6a29c3eb310571.js",
+      "static/chunks/pages/[country]-81319737fb6305c8.js"
     ],
     "/_app": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_app.js"
+      "static/chunks/webpack-00804ddac72c703d.js",
+      "static/chunks/framework-e037b0586cd7ceec.js",
+      "static/chunks/main-2870851f72bc303d.js",
+      "static/chunks/pages/_app-edd62a6b26e6bcce.js"
     ],
     "/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_error.js"
+      "static/chunks/webpack-00804ddac72c703d.js",
+      "static/chunks/framework-e037b0586cd7ceec.js",
+      "static/chunks/main-2870851f72bc303d.js",
+      "static/chunks/pages/_error-ef37bb2327b9beff.js"
     ]
   },
   "ampFirstPages": []
