@@ -6,14 +6,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mongodb-university/atlas_starter_nodejs.git"
   },
-  "author": "chris.cho@mongodb.com",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mongodb-university/atlas_starter_nodejs/issues"
-  },
-  "homepage": "https://github.com/mongodb-university/atlas_starter_nodejs#readme",
   "dependencies": {
     "@aws-sdk/credential-providers": "^3.385.0",
     "@babel/preset-env": "^7.22.10",
