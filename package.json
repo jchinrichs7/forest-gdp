@@ -5,7 +5,7 @@
   "description": "MongoDB Node.js driver and Atlas Starter Application",
   "main": "app.js",
   "repository": {
-    "type": "git",
+    "type": "git"
   },
   "dependencies": {
     "@aws-sdk/credential-providers": "^3.385.0",
@@ -33,8 +33,8 @@
     "start": "node app",
     "dev": "next dev",
     "build": "next build",
-    "predeploy": "npm run build",   
-    "deploy": "gh-pages -d build",  
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.22.5",
